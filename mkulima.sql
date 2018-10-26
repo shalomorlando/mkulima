@@ -1,7 +1,3 @@
-
-
-GOUP C
-
 CREATE TABLE `produce` (
   `produce_id` int(11) NOT NULL,
   `name` varchar(45) DEFAULT NULL,
